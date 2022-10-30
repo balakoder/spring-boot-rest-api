@@ -9,13 +9,13 @@ Now, this is where REST comes into the picture.  Rest stands for Representation 
 # Relevant Articles:
 
  
-[https://www.javacodestuffs.com/2020/10/difference-between-componentscan-enableautoconfiguration.html] (Difference Between @ComponentScan and @EnableAutoConfiguration in Spring Boot)
+[Difference Between @ComponentScan and @EnableAutoConfiguration in Spring Boot](https://www.javacodestuffs.com/2020/10/difference-between-componentscan-enableautoconfiguration.html)
 
-[https://www.javacodestuffs.com/2020/09/spring-boot-command-line-runner-example.html](Spring Boot command line runner Example)
+[Spring Boot command line runner Example](https://www.javacodestuffs.com/2020/09/spring-boot-command-line-runner-example.html)
 
-[https://www.javacodestuffs.com/2020/10/run-spring-boot-app-without-web-server.html](Run Spring Boot App Without Web a Server)
+[Run Spring Boot App Without Web a Server](https://www.javacodestuffs.com/2020/10/run-spring-boot-app-without-web-server.html)
 
-[https://www.javacodestuffs.com/2020/08/spring-cloud-aws-s3-upload-download.html](Spring Cloud AWS – S3 upload/download Examples )
+[Spring Cloud AWS – S3 upload/download Examples](https://www.javacodestuffs.com/2020/08/spring-cloud-aws-s3-upload-download.html)
 
-[https://www.javacodestuffs.com/2020/05/spring-boot-custom-banner.html](Spring Boot Custom Banner)
+[Spring Boot Custom Banner](https://www.javacodestuffs.com/2020/05/spring-boot-custom-banner.html)
 
