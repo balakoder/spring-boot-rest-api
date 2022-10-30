@@ -4,17 +4,17 @@ We all know in today's world, most web app follows the client-server architectur
 
 Now, this is where REST comes into the picture.  Rest stands for Representation State Transfer it is basically a convention to building these HTTP services. So we use a simple HTTP protocol principle to provide support to CREATE, READ, UPDATE & DELETE data. We refer to these operations all together called CRUD operations.
 
- For More details please follow the [tutorials](https://www.javacodestuffs.com/2020/09/spring-boot-rest-api-example.html).
+ For More details please follow the [tutorials] (https://www.javacodestuffs.com/2020/09/spring-boot-rest-api-example.html).
 # Relevant Articles:
 
  
-[https://www.javacodestuffs.com/2020/10/difference-between-componentscan-enableautoconfiguration.html](Difference Between @ComponentScan and @EnableAutoConfiguration in Spring Boot)
+[https://www.javacodestuffs.com/2020/10/difference-between-componentscan-enableautoconfiguration.html] (Difference Between @ComponentScan and @EnableAutoConfiguration in Spring Boot)
 
-[https://www.javacodestuffs.com/2020/09/spring-boot-command-line-runner-example.html](Spring Boot command line runner Example)
+[https://www.javacodestuffs.com/2020/09/spring-boot-command-line-runner-example.html] (Spring Boot command line runner Example)
 
-[https://www.javacodestuffs.com/2020/10/run-spring-boot-app-without-web-server.html](Run Spring Boot App Without Web a Server)
+[https://www.javacodestuffs.com/2020/10/run-spring-boot-app-without-web-server.html] (Run Spring Boot App Without Web a Server)
 
-[https://www.javacodestuffs.com/2020/08/spring-cloud-aws-s3-upload-download.html](Spring Cloud AWS – S3 upload/download Examples )
+[https://www.javacodestuffs.com/2020/08/spring-cloud-aws-s3-upload-download.html] (Spring Cloud AWS – S3 upload/download Examples )
 
-[https://www.javacodestuffs.com/2020/05/spring-boot-custom-banner.html](Spring Boot Custom Banner)
+[https://www.javacodestuffs.com/2020/05/spring-boot-custom-banner.html] (Spring Boot Custom Banner)
 
